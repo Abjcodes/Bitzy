@@ -43,7 +43,10 @@ Linear regression algorithm is used for model building.
 
 
 ## To be done/Implemented:
-Write here
+1. Better prediction using time series forecasting.
+2. Linking multiple apis of crypto wallets, plots etc.
+3. Live notification updates through email.
+4. Implenting bot for user support.
 
 
 #### Attributes :
