@@ -23,7 +23,8 @@ Bitzy acts as an 3rd party portfolio manager and trading companion. Some of the 
 3. Customer support for portfolio management.
 
 ## Prediction
-
+Bitzy predicts the volume weighted average price of the cryptocurrency using the recent trends in crypto market. Main parameters like opening price, closing price, weighted average etc. are taken as inputs by the model and Volume weighted average price of the crypto currency is predicted.
+Linear regression algorithm is used for model building.
 
 ## Screenshots
 ![login](https://user-images.githubusercontent.com/60286610/99188325-6e510500-2781-11eb-962a-7aea70d8122f.jpg)
