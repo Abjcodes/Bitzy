@@ -26,6 +26,9 @@ Bitzy acts as an 3rd party portfolio manager and trading companion. Some of the 
 
 
 ## Screenshots
+![login](https://user-images.githubusercontent.com/60286610/99188325-6e510500-2781-11eb-962a-7aea70d8122f.jpg)
+<pre>
+</pre>
 ![readme1](https://user-images.githubusercontent.com/60286610/98439020-a23e8180-2114-11eb-8050-0ccc1e6a070b.jpg)
 <pre>
 </pre>
