@@ -53,6 +53,8 @@ Linear regression algorithm is used for model building.
 Template used: https://colorlib.com/<br>
 Dataset used: https://bit.ly/32o948R
 
+
+### Note:
 Username: Admin<br>
 Password: 123
 
