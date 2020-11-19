@@ -55,6 +55,6 @@ Dataset used: https://bit.ly/32o948R
 
 
 ### Note:
-Username: Admin<br>
+Username: admin<br>
 Password: 123
 
